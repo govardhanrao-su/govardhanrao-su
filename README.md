@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @govardhanrao-su
+- 👋 Hi
 - 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Terraform
-- 💞️ I’m looking to collaborate on Cloud deployments using Terraform and Python Programming
 - 📫 How to reach me? ping me in slack. 
 
 <!---
