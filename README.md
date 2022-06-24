@@ -1,6 +1,4 @@
 - 👋 Hi
-- 👀 I’m interested in Python Programming
-- 📫 How to reach me? ping me in slack. 
 
 <!---
 govardhanrao-su/govardhanrao-su is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
